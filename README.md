@@ -7,3 +7,5 @@ elevated: https://coolors.co/34464a-519fa3-cec0c6-d9f1f0-e6f7b9
 https://coolors.co/2b3a3d-70b299-cec0c6-d9f1f0-e6f7b9
 
 https://coolors.co/375d3c-8edbb2-463f3a-fca99f-ed254e
+
+https://coolors.co/13293d-6e8898-963d5a-ef5d60-f2fcff
